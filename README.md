@@ -59,7 +59,7 @@ The data is contained in three files:<br>
 
 The main findings of the code can be found at the post available [here]().
 
-## Licensing, Authors, Acknowledgements
+## Acknowledgements
 
 Many Thanks for Starbucks to give this dataset available. I found the Licensing for the data and other descriptive information at Udacity. 
 
