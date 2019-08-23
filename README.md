@@ -3,9 +3,10 @@ Data Scientist Nanodegree
 ## Starbucks Capstone Challenge
 
 
+
 ## Table of Contents
 
-[Introduction](#installation)
+[Introduction](#introduction)
 
 [Project Motivation](#project-motivation)
 
