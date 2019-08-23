@@ -57,7 +57,7 @@ The data is contained in three files:<br>
   
 ## Results
 
-The main findings of the code can be found at the post available [here]().
+The main findings of the code can be found at the post available [here](https://medium.com/@laila.alqawain/data-scientist-capstone-project-3348bc569e8b).
 
 ## Acknowledgements
 
