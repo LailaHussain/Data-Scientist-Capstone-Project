@@ -1,20 +1,20 @@
 # Data-Scientist-Capstone-Project
 Data Scientist Nanodegree
+## Starbucks Capstone Challenge
 
-# Table of Contents
+
+## Table of Contents
 
 [Introduction](#installation)
 
 [Project Motivation](#project-motivation)
 
 [File Descriptions](#file-descriptions)
-7
-4. [Results](#results)
-8
-5. [Licensing, Authors, and Acknowledgements](#licensing-authors-and-acknowledgements)
-9
-​
-10
+
+[Results](#results)
+
+[Acknowledgements](#acknowledgements)
+
 ## Introduction
 This data set contains simulated data that mimics customer behavior on the Starbucks rewards mobile app. In this project, I will understand the data and try to provide a solution for how Starbucks should deal with customers, which promotions should provide and to whom? instead of providing offers for all customer which that make the customers who completed offers feel better and may push them to be customers for a long time.<br>
 I will combine transaction, demographic and offer data to determine which demographic groups respond best to which offer type.<br>
@@ -61,5 +61,5 @@ The main findings of the code can be found at the post available [here]().
 
 ## Licensing, Authors, Acknowledgements
 
-Many Thanks for Starbucks for given this dataset availabel. I found the Licensing for the data and other descriptive information at Udacity. 
+Many Thanks for Starbucks to give this dataset available. I found the Licensing for the data and other descriptive information at Udacity. 
 
